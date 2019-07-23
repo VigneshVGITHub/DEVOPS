@@ -10,7 +10,7 @@
           "Premium_LRS"
         ],
         "metadata": {
-          "description": "Type of the Storage for disks"
+          "description": "Type of Storage for disks"
         }
       },
       "vmName": {
